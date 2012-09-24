@@ -28,3 +28,4 @@ $(document).ready(function(){
 	// 	$("img").width(200);
 	// });
 }); //always rmb to put ;
+I was here.
